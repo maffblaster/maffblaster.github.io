@@ -2,11 +2,22 @@
 title: Maffblaster's personal blog
 email: Maffblaster@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-        A blog about many things, but particularly the Christian faith.
+        A blog about many things, but particularly: practicality, critical thinking, implementing technology for freedom, the future, and the Christian faith. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://maffblaster.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:  maffblaster
 
+# Define where things are
+source: .
+destination: ./_site
+plugins: ./_plugins
+layouts: ./_layouts
+data_source: ./_data
+collections: null
+
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink:     date

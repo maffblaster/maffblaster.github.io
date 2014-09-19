@@ -6,21 +6,21 @@ permalink: /about/
 
 You've found the experimental blog of Matthew Marchese. This is one of my many projects, but I still try to find time for it.
 
-A little bit about me:
+**A little bit about me:**
+
 Titus 2:11-14; 3:3-8 would be a good representation of my beliefs about reality.
 
 It is my sole purpose to glorify Him as His Son did, although this goal is not easy and I don't do as well as I should.
 
 Excluding the many men found in the pages of Scripture, I have found the following men to be personal life examples for me to follow: Butch Pursley, Steve Marshall, and the other elders at Maranatha Bible Church, Jonathan Winn and Nathan Kurcsak and a few of the other pastor that came and went at Maranatha Bible Church. Dan Jarms, Yogi Naresh, David Gamon, Walt Takisaki, and the other elders at Faith Bible Church. Jerod Gilcher and the other pastors at Faith Bible Church.
 
-
 Here are some men that I'm not directly connected with, but from their works, writings, and ministries I've found to be both honorable and respectable:
 Dr. John F. MacArthur, George Washington, Ben Stein, Ravi Zacharias, Noah Webster, Jonathan Edwards, and Martin Luther.
 
-My name is Matthew.
+My name is *Matthew*.
 
-
-Here are a few of my favorite quotes:
+**
+A few of my favorite quotes:**
 
 "A loss of faith is not too much thinking but too little." -Timothy Keller
 
