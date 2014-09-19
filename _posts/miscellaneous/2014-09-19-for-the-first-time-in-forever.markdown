@@ -7,7 +7,6 @@ categories: jekyll update
 date: 2014-09-19 10:40:00 -07:00
 tags: "MarkPad, Windows 7"
 ---
-**For the First Time in Forever**
 
 For the first time in forever (definitely not forever, but certainly a while) I'm (re)starting a blog. Ah! I knew the title would snare your interest! After all, it is one of the most popular lines in a chorus of a song from that that ever popular movie my cousin worked on.
 
