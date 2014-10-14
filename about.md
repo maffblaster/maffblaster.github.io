@@ -17,7 +17,7 @@ It is my sole purpose to glorify Him as His Son did, although this goal is not e
 
 Excluding the many men found in the pages of Scripture, I have found the following men to be personal life examples for me to follow: Butch Pursley, Steve Marshall, and the other elders at [Maranatha Bible Church](http://www.mbc95.org/), Jonathan Winn and Nathan Kurcsak and a few of the other [pastors](http://www.mbc95.org/about/ministry-staff/) that shepherd at Maranatha Bible Church in Akron, Ohio. Dan Jarms, Yogi Naresh, David Gamon, Walt Takisaki, and the other [elders](http://www.fbchurch.org/who-we-are/pastors-elders/) at Faith Bible Church. Jerod Gilcher and the other pastors at [Faith Bible Church](http://www.fbchurch.org/) in Spokane, Washington.
 
-Here are some men that I'm not directly connected with, but from their works, writings, and ministries I've found to be both honorable and respectable:
+Here are some men that I'm not directly connected with, but from their works, writings, and ministries are found to be both honorable and respectable:
 [Dr. John F. MacArthur](http://www.gty.org/), George Washington, Ben Stein, [Ravi Zacharias](http://www.rzim.org/), Noah Webster, Jonathan Edwards, and Martin Luther.
 
 My name is *Matthew*. I highly prefer Matthew it over its shortened, halved version. I'm married to my closest friend, my wife Christina.
