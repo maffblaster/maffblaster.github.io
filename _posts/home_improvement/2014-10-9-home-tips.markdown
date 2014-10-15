@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Home Improvement: How to do a Few Things Better
+title: Home Improvement - How to do a Few Things Better
 description: Home Improvement Tips
 date: 2014-10-09 10:13:20 -07:00
-tags: "Home Improvement Caulk Bathroom Kitchen Foundation Structure Construction"
+tags: "Home Improvement, Caulk, Bathroom, Kitchen, Foundation, Structure, Construction"
 ---
 
 My wife and I are currently looking into purchasing our first house. We hired a home inspector to inspect the home and we were both quite impressed with his throughout knowledge. I hope to learn enough about home inspections to do my own in the future, but for now hiring someone was a wise investment of our funds.
