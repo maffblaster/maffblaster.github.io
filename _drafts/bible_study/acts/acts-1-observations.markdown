@@ -7,3 +7,4 @@ tags: "Acts 1, Bible Study"
 ---
 
 **Observations from Acts 1**
+

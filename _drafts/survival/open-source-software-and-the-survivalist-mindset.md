@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Open Source Software and the Survivalist Mindset
-description: A list of reasons open source software must be the only choice used for survival.
+description: A list of reasons open source software must be the only software used for survival.
 date: 2014-10-14 14:28:16 -07:00
 tags: "Survival Open Source Gentoo Linux BSD"
 ---
 
-"Open source" or "free software" is a philosophy that was started by some hackers and tinkerers in the 1980s. Although there were many involved in the movement, the most outspoken was [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman). There's actually a convenient Wikipedia article on the [history of free and open source software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software) if you'd like to do some detailed reading on the subject. Being a Christian and a free thinker, I agree with many of Stallman's philosophies concerning the use of softwares and the freedoms that should naturally come with their use.
+"Open source" or "free software" is a philosophy that was started by some hackers and tinkerers in the 1980s. Although there were many involved in the movement, the most outspoken was [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman). There's actually a convenient Wikipedia article on the [history of free and open source software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software) if you'd like to do some detailed reading on the subject. Being a Christian and a free thinker, I agree with many of Stallman's philosophies concerning the use of software and the freedoms that should naturally come with its use. There are points that I would disagree with him on, mainly political, but I'll save those for another article.
 
 In my mind software is in a unique category when compared to tangible assets. Software is non-tangible. It is abstract. It is literally organized, electrical information on various mediums. Software is different than any other physical thing for a few reasons.
 

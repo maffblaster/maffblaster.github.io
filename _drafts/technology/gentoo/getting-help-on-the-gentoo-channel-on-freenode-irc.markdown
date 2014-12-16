@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting help on the Gentoo channel on Freenode IRC
-description: This entry teaches you how to connect to the Gentoo channel on the Freenode IRC in order to help from other experienced Gentoo users.
+title: Getting help on the Gentoo channel (Freenode IRC)
+description: This entry teaches you how to connect to the Gentoo channel (Freenode IRC) in order to help from experienced Gentoo users.
 date: 2014-10-13 11:13:36 -07:00
 tags: "Tutorial, How-to, IRC, Gentoo, #gentoo"
 ---
