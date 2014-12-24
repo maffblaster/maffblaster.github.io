@@ -10,7 +10,7 @@ I was *probably* going to release some commits for Stage7 over the weekend, but 
 
 * Attended a college ministry Christmas party at Faith Bible Church.
 
-![Future of Faith logo](../../images/graphics/future-of-faith-logo.png "Future of Faith")
+![Future of Faith logo](/images/graphics/future-of-faith-logo.png "Future of Faith")
 
 * Attended [Future of Faith](http://www.fbchurch.org/event/future-faith/). Future of Faith is a monthly training and equipping meeting for future church leaders at Faith Bible Church. A normal evening consists of an ice breaker, a selected speaker from one of the various ministries at Faith, and then a discussion panel on an important topic. This week's topic was on godly leadership.
 

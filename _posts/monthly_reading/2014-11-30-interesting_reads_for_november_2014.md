@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting reads for Nov, 2014
-description: In this entry I share some articles that I've read
+description: In this entry I share some articles that I've read this month.
 date: 2014-11-14 10:19:37 -08:00
 tags: "Blogs, Interesting"
 ---
