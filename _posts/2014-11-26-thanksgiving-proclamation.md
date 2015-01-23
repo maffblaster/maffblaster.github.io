@@ -6,7 +6,7 @@ date: 2014-11-26 15:36:38 -08:00
 tags: "Thanksgiving 2014, Founding Fathers, George Washington"
 ---
 
-The following is text from the first proclamation of Thanksgiving by General George Washington, a Founding Father and the first president of the U.S.
+The following text is the first proclamation of Thanksgiving given by General George Washington, a Founding Father and the first president of the US. I find fascinating the eloquence of his speech and the splendor of his lexicality. The US needs another president like him. George Washington, I'm thankful for you.
 
 ####"Whereas it is the duty of all Nations to acknowledge the providence of Almighty God, to obey his will, to be grateful for his benefits, and humbly to implore his protection and favor, and whereas both Houses of Congress have by their joint Committee requested me "to recommend to the People of the United States a day of public thanksgiving and prayer to be observed by acknowledging with grateful hearts the many signal favors of Almighty God especially by affording them an opportunity peaceably to establish a form of government for their safety and happiness.
 
@@ -16,3 +16,7 @@ The following is text from the first proclamation of Thanksgiving by General Geo
 ####Given under my hand at the City of New York the third day of October in the year of our Lord 1789."
 
 Source: [https://en.wikisource.org/wiki/National_Thanksgiving_Proclamation](https://en.wikisource.org/wiki/National_Thanksgiving_Proclamation)
+
+Have a pleasant Thanksgiving.
+
+Maffblaster
