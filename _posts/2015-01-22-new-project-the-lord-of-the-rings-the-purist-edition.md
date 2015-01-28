@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Project - The Lord of the Rings - The Purist Edition
+title: New Project LOTR The Purist Edition
 description: In this entry I discuss a new project that was conceived, inspired by The Tolkien Edit of The Hobbit.
 date: 2015-01-22 15:38:57 -08:00
 tags: "Project, LOTR Purist, Lord of the Rings Purist, The Tolkien Edition, Bluray, Fan Edit"
@@ -16,6 +16,6 @@ Oh, did I mention that I'll be attempting to do *all of this* using my *favorite
 
 If you have something constructive to say, I'd love to hear your thoughts. As always, you can contact me via e-mail (see the bottom left of this page).
 
-If you have a special request for LORT: The Purist Edition, please [create an issue](https://github.com/DigitalSurvival/LOTR-The-Purist-Edition/issues/new) on the project page. I should see it and to respond to your request.
+If you have a special request for LOTR: The Purist Edition, please [create an issue](https://github.com/DigitalSurvival/LOTR-The-Purist-Edition/issues/new) on the project page. I should see it and to respond to your request.
 
 Maffblaster
