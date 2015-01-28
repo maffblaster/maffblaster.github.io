@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Project: The Lord of the Rings - The Purist Edition
+title: New Project - The Lord of the Rings - The Purist Edition
 description: In this entry I discuss a new project that was conceived, inspired by The Tolkien Edit of The Hobbit.
 date: 2015-01-22 15:38:57 -08:00
 tags: "Project, LOTR Purist, Lord of the Rings Purist, The Tolkien Edition, Bluray, Fan Edit"
