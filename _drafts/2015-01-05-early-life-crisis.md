@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EarlyLife Crisis
+title: Early-life Crisis
 description: In this article I speak about the crisis I have been experiencing of late.
 date: 2015-01-05 13:35:02 -08:00
 tags: "EarlyLife Crisis, MidLife Crisis, Wisdom"

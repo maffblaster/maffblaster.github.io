@@ -22,14 +22,17 @@ In summary use **-mtune=generic** if:
 <ul>
 <li>You want your compiled package to work on machines other than your machine;
 <li>To choose a setting that doesn't break on any packages;
-<li>an easy, no hassle solution.
+<li>An easy, no hassle compile solution to most packages.
+<li>If you are planning on using distcc.
 </ul>
 
-Use -march=<cpu-type> if:
-<li>You have a specific CPU that code is compiled for;
-<li>The smallest, fastest, lightest binaries are needed;
+Use **-march=<cpu-type>** if:
+<ul>
+<li>You have a specific CPU that code should be compiled for;
+<li>To have the smallest, fastest, lightest binaries specific to the system's CPU.
+<li>If you are not concerned about using Distcc.
+</ul>
 
-
-Both the flags can actually be used together. For the list of all available configuration options, and better explanations than I can provide, see GCC's [i386 and x86-64 Options](https://gcc.gnu.org/onlinedocs/gcc/i386-and-x86-64-Options.html#i386-and-x86-64-Options) page.
+Both the flags can actually be used together. For the list of all available configuration options (and better explanations than I can provide) see GCC's [i386 and x86-64 Options](https://gcc.gnu.org/onlinedocs/gcc/i386-and-x86-64-Options.html#i386-and-x86-64-Options) page.
 
 Maffblaster

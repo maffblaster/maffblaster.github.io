@@ -12,4 +12,6 @@ tags: "Gentoo, Tyrian, Layout, Face Lift"
  
  So far three Gentoo sub-domain sites have had the new look applied. The Wiki rollout status says "in progress" although it has been applied as of December 27th, 2014 (see my previous entry.)
  
- Over all I am pleased with the new look of Gentoo, although there are some people quite bothered about the JavaScript that's present.
+ Over all I am pleased with the new look of Gentoo. There are some people who are apparently quite bothered about the JavaScript that is now needed in order to use the wiki site.
+ 
+ Maffblaster
