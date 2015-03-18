@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting reads for Feb, 2015
-description: Some Description
+description: In this entry I post some articles, blogs, and web sites that I found interesting.
 date: 2015-02-19 12:55:22 -08:00
 tags: "Blogs, Articles, Interesting reads"
 ---
