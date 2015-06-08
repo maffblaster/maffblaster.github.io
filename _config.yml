@@ -7,16 +7,13 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://maffblaster.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:  maffblaster
-
-# Define where things are
 source: .
 destination: ./_site
 plugins: ./_plugins
 layouts: ./_layouts
 data_source: ./_data
 timezone: America/Los_Angeles
-
-# Testing
+encoding: "utf-8"
 
 # Build settings
 markdown: kramdown
