@@ -4,11 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-Here you can find a summary of my contributions to various projects. Things found here I have found to be particularly enjoyable to spent some earth-time on:
+Here you can find a summary of my contributions to various projects. Things found here I have found to be particularly enjoyable to spent some earth-time:
 
 ## Personal ##
 
-* This personal blog website.
+* This website.
+
+### Ministry ###
+
+* Currently serving in college ministry which impacts many details of life.
 
 ### Wiki contributions ###
 
@@ -21,13 +25,10 @@ In the Gentoo project I have helped with the Wiki project and the documentation 
 
 #### Wikipedia ####
 
-* The  [Gentoo Linux article](https://en.wikipedia.org/wiki/Gentoo_Linux) on Wikipedia
+* The [Gentoo Linux article](https://en.wikipedia.org/wiki/Gentoo_Linux) on Wikipedia.
 
 ### Digital Survival ###
 
 * Digital Survival blog site.
 
-* [Vitality]() - 
-
-## Ministry ##
-
+* [Vitality]() - A new 
