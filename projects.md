@@ -28,8 +28,11 @@ In the Gentoo project I have helped with the Wiki project and the documentation 
 
 * The [Gentoo Linux article](https://en.wikipedia.org/wiki/Gentoo_Linux) on Wikipedia.
 
-### Digital Survival ###
+## Digital Survival ##
 
-* Digital Survival blog site.
+* [blog.digitalsurvival.org](blog.digitalsurvival.org)
+* [www.digitalsurvival.org](www.digitalsurvival.org)
 
-* [Vitality]() - A new 
+#### Vitality ####
+
+* [Vitality](www.digitalsurvival.org/vitality) - A hardened Linux operating system optimized for containers. (This operating system is a work in progress...)
