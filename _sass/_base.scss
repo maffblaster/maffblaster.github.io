@@ -92,7 +92,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 30%);
     }
 
     &:hover {
@@ -107,10 +107,10 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $cream-color;
-    border-left: 4px solid $cream-color-light;
+    color: $hf-color;
+    border-left: 4px solid $hf-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: 14px;
     letter-spacing: -1px;
     font-style: italic;
 
@@ -126,8 +126,8 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $cream-color-light;
+    font-size: 14px;
+    border: 1px solid $hf-color-light;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -197,7 +197,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $cream-color;
+            fill: $hf-color;
         }
     }
 }

@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $cream-color;
-    border-bottom: 1px solid $cream-color-light;
+    border-top: 5px solid $hf-color;
+    border-bottom: 1px solid $hf-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -19,7 +19,7 @@
 
     &,
     &:visited {
-        color: $cream-color;
+        color: $hf-color;
     }
 }
 
@@ -46,7 +46,7 @@
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $cream-color-light;
+        border: 1px solid $hf-color-light;
         border-radius: 5px;
         text-align: right;
 
@@ -64,7 +64,7 @@
                 height: 15px;
 
                 path {
-                    fill: $cream-color;
+                    fill: $hf-color;
                 }
             }
         }
@@ -92,7 +92,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $cream-color-light;
+    border-top: 1px solid $hf-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -109,7 +109,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $cream-color;
+    color: $hf-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -180,7 +180,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $cream-color;
+    color: $hf-color;
 }
 
 .post-link {
