@@ -21,30 +21,34 @@ $text-color:       #f2f2f2;
 // Very dark green
 $background-color: #1b1e12;
 
+// Light green
+$brand-color:      #a4ff7a;
+
 // Light purple
 // #937aff
-// Darker purple
+// Dark purple
 // #6655b2
 
 // Light blue
-$brand-color:      #a4ff7a;
-// Darker blue
+// #7aa4ff
+// Dark blue
 // #5572b2
 
 // Light pink
 // #ff7aa4
-// Darker pink
+// Dark pink
 // #b25572
 
 // Light green
-$header-link: #a4ff7a;
-// Darker green
-$header-link-visited: #72b255;
+// $header-link: #a4ff7a;
+// Dark green
+// $header-link-visited: #72b255;
 
 // $cream-color:       #fff4dd;
 
 $hf-color:       #a4ff7a;
 $hf-color-light: lighten($cream-color, 30%);
+$hf-color-dark: darken($cream-color, 30%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
