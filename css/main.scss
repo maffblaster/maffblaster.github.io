@@ -22,7 +22,7 @@ $background-color: #5b653c;
 $brand-color:      #b7ceff;
 
 $cream-color:       #fff4dd;
-$cream-color-light: lighten($grey-color, 40%);
+$cream-color-light: lighten($cream-color, 40%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
