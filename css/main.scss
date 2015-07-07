@@ -19,25 +19,26 @@ $spacing-unit:     30px;
 $text-color:       #f2f2f2;
 
 // Very dark green
-$background-color: #1b1e12;
+$background-color: #333333;
+// #1b1e12;
 
 // Light green
 $brand-color:      #a4ff7a;
 
 // Light purple
-// #937aff
+// #937aff;
 // Dark purple
-// #6655b2
+// #6655b2;
 
 // Light blue
-// #7aa4ff
+// #7aa4ff;
 // Dark blue
-// #5572b2
+// #5572b2;
 
 // Light pink
-// #ff7aa4
+// #ff7aa4;
 // Dark pink
-// #b25572
+// #b25572;
 
 // Light green
 // $header-link: #a4ff7a;
@@ -48,18 +49,19 @@ $brand-color:      #a4ff7a;
 
 $hf-color:       #a4ff7a;
 $hf-color-light: lighten($cream-color, 30%);
-// $hf-color-dark: darken($cream-color, 30%);
+$hf-color-dark: darken($cream-color, 30%);
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:      800px;
 
-// Using media queries with like this:
+// Using media queries with like this
+/*
 // @include media-query($palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
 //     }
-// }
+*/
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
@@ -67,8 +69,7 @@ $on-laptop:        800px;
     }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-
+/* Import partials from `sass_dir` (defaults to `_sass`) */
 @import
         "base",
         "layout",
