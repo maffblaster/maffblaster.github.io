@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Observations from Acts 2
-permalink: new-page.html
 description: Some Description
 date: 2014-09-19 11:05:35 -07:00
 tags: "Acts 2, Bible Study"

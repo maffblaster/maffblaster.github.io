@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Favorite quotes
-permalink: /favorite_quotes/
+title: Quotes
+permalink: /quotes/
 ---
 
 Here I have included some quotes that have, in some manner (mostly positively), affected me over the years:
