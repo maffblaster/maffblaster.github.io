@@ -30,9 +30,9 @@ In the Gentoo project I have helped with the Wiki project and the documentation 
 
 ## Digital Survival ##
 
-* [blog.digitalsurvival.org](blog.digitalsurvival.org)
-* [www.digitalsurvival.org](www.digitalsurvival.org)
+* [blog.digitalsurvival.org](http://blog.digitalsurvival.org)
+* [www.digitalsurvival.org](http://www.digitalsurvival.org)
 
-#### Vitality ####
+### Vitality ###
 
 * [Vitality](www.digitalsurvival.org/vitality) - A hardened Linux operating system optimized for containers. (This operating system is a work in progress...)
