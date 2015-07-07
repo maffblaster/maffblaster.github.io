@@ -16,13 +16,35 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-// Updated background color
 $text-color:       #f2f2f2;
-$background-color: #1b1e12;
-$brand-color:      #7aa4ff;
 
-$cream-color:       #fff4dd;
-$cream-color-light: lighten($cream-color, 40%);
+// Very dark green
+$background-color: #1b1e12;
+
+// Light purple
+// #937aff
+// Darker purple
+// #6655b2
+
+// Light blue
+$brand-color:      #a4ff7a;
+// Darker blue
+// #5572b2
+
+// Light pink
+// #ff7aa4
+// Darker pink
+// #b25572
+
+// Light green
+$header-link: #a4ff7a;
+// Darker green
+$header-link-visited: #72b255;
+
+// $cream-color:       #fff4dd;
+
+$hf-color:       #a4ff7a;
+$hf-color-light: lighten($cream-color, 30%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
