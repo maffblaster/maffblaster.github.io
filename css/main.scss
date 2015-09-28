@@ -3,9 +3,9 @@
 ---
 @charset "utf-8";
 
-// Variables
+/* Variables */
+/* Adding in inconsolata-dz */
 
-// Adding in inconsolata-dz
 @font-face { font-family: inconsolata-dz; src: url('../assets/fonts/inconsolata-dz.otf'); }
 @font-face { font-family: inconsolata-dz; font-weight: bold; src: url('../assets/fonts/inconsolata-dz.otf'); }
 
@@ -18,35 +18,35 @@ $spacing-unit:     30px;
 
 $text-color:       #f2f2f2;
 
-// Very dark green
+/* Very dark green */
 $background-color: #333333;
-// 1b1e12
+/* color: 1b1e12 */
 
-// Light green
+/* Light green */
 $brand-color:      #a4ff7a;
 
 /*
-// Light purple
-// #937aff;
-// Dark purple
-// #6655b2;
+ Light purple
+ #937aff;
+ Dark purple
+ #6655b2;
 
-// Light blue
-// #7aa4ff;
-// Dark blue
-// #5572b2;
+ Light blue
+ #7aa4ff;
+ Dark blue
+ #5572b2;
 
-// Light pink
-// #ff7aa4;
-// Dark pink
-// #b25572;
+ Light pink
+ #ff7aa4;
+ Dark pink
+ #b25572;
 
-// Light green
-// $header-link: #a4ff7a;
-// Dark green
-// $header-link-visited: #72b255;
+ Light green
+ $header-link: #a4ff7a;
+ Dark green
+ $header-link-visited: #72b255;
 
-// $cream-color:       #fff4dd;
+ $cream-color:       #fff4dd;
 */
 
 $hf-color:       #a4ff7a;
@@ -56,13 +56,12 @@ $hf-color-dark: darken($cream-color, 30%);
 $on-palm:          600px;
 $on-laptop:      800px;
 
-// Using media queries with like this
 /*
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
+ @include media-query($palm) {
+     .wrapper {
+         padding-right: $spacing-unit / 2;
+         padding-left: $spacing-unit / 2;
+     }
 */
 
 @mixin media-query($device) {
