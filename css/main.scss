@@ -6,8 +6,16 @@
 /* Variables */
 /* Adding in inconsolata-dz */
 
-@font-face { font-family: inconsolata-dz; src: url('../assets/fonts/inconsolata-dz.otf'); }
-@font-face { font-family: inconsolata-dz; font-weight: bold; src: url('../assets/fonts/inconsolata-dz.otf'); }
+@font-face {
+	font-family: inconsolata-dz;
+	src: url(../assets/fonts/inconsolata-dz.otf);
+}
+
+@font-face {
+	font-family: inconsolata-dz-bold;
+	font-weight: bold;
+	src: url(../assets/fonts/inconsolata-dz.otf); 
+}
 
 $base-font-family: inconsolata-dz, Helvetica, Arial, sans-serif;
 $base-font-size:   14px;
@@ -45,15 +53,15 @@ $brand-color:      #a4ff7a;
  $header-link: #a4ff7a;
  Dark green
  $header-link-visited: #72b255;
-
- $cream-color:       #fff4dd;
 */
+
+$cream-color:       #fff4dd;
 
 $hf-color:       #a4ff7a;
 $hf-color-light: lighten($cream-color, 30%);
 $hf-color-dark: darken($cream-color, 30%);
 
-$on-palm:          600px;
+$on-palm:        600px;
 $on-laptop:      800px;
 
 /*
