@@ -10,4 +10,8 @@ Two of my most-used programs on Windows include features to prompt the user for 
 
 A few more clicks and and the programs will be updated to the newest version. I love open source programs that nicely suggest you update them to the newest versions.
 
-I'm talking about **VLC** and **Notepad++**. Both are excellent programs. They are works of art and deserve to be utilized to their fullest potential.
+The two programs I'm talking about here are **VLC** and **Notepad++**. Both are excellent programs. They are works of art and deserve to be utilized to their fullest potential.
+
+I'd love to see do some research on how these programs automatically update. So for I've read a little bit on [Omaha - Google's silent, automatic updater](https://github.com/google/omaha) used for Chrome on Windows.
+
+If I ever made a program that should be maintained I'll probably look into this using framework.
