@@ -1,0 +1,447 @@
+﻿<div class="col-xs-12 col-md-9 col-lg-9">
+    <p>
+  <strong>These developers are currently not available.</strong>
+  Data updated at Tue Oct 27 22:30:37 2015.
+</p>
+
+<table class="table table-striped">
+  <tbody><tr>
+    <th>Developer</th>
+    <th>Message and Timestamp</th>
+  </tr>
+  
+    <tr>
+    <th>a3li</th>
+    <td>Moving. Back sometime in November. @ 2015/10/20 19:51Z</td>
+    </tr>
+  
+    <tr>
+    <th>alicef</th>
+    <td>Still busy for university exams. Feel free to touch my packages. @ 2015/08/24 09:53Z</td>
+    </tr>
+  
+    <tr>
+    <th>antarus</th>
+    <td>On leave. Not reading email or irc. @ 2014/06/07 15:34Z</td>
+    </tr>
+  
+    <tr>
+    <th>armin76</th>
+    <td>Relocated to Ireland since April, still no internet and not finished moving yet, feel free to touch my packages @ 2015/06/14 19:17Z</td>
+    </tr>
+  
+    <tr>
+    <th>bircoph</th>
+    <td>Unavailable and unreacheable till the beginning of November due to healthcare issues. Feel free to touch my packages. @ 2015/10/18 20:16Z</td>
+    </tr>
+  
+    <tr>
+    <th>caster</th>
+    <td>Away until second child born and things settle down (I expect March). @ 2015/01/06 15:20Z</td>
+    </tr>
+  
+    <tr>
+    <th>dabbott</th>
+    <td>Away untill the middle of November, in the process of relocation. @ 2015/10/11 22:10Z</td>
+    </tr>
+  
+    <tr>
+    <th>darkside</th>
+    <td>Check email. Monitor Gentoo Infra stuff, otherwise a Gentoo User. @ 2014/01/05 00:09Z</td>
+    </tr>
+  
+    <tr>
+    <th>dastergon</th>
+    <td>new job; relocating. partially available @ 2015/03/20 10:08Z</td>
+    </tr>
+  
+    <tr>
+    <th>dilfridge</th>
+    <td>main devbox and vserver broken. reachable by e-mail, occasionally on irc (but no backlog). @ 2015/10/02 21:36Z</td>
+    </tr>
+  
+    <tr>
+    <th>ercpe</th>
+    <td>Currently n/a. Not really looking into bugzilla and IRC but reachable via mail. @ 2015/05/14 04:47Z</td>
+    </tr>
+  
+    <tr>
+    <th>fauli</th>
+    <td>Work load high, available through mail @ 2011/02/02 20:21Z</td>
+    </tr>
+  
+    <tr>
+    <th>haubi</th>
+    <td>offline until mid of October, 2015 @ 2015/09/01 09:18Z</td>
+    </tr>
+  
+    <tr>
+    <th>hkbst</th>
+    <td>Busy with real life. @ 2013/12/09 12:25Z</td>
+    </tr>
+  
+    <tr>
+    <th>hwoarang</th>
+    <td>No time for gentoo. No ETA. If you want to fix my bugs go ahead @ 2014/06/29 11:53Z</td>
+    </tr>
+  
+    <tr>
+    <th>iksaif</th>
+    <td>Hardware died, away till May (set by infra per undertakers@, 2015/04/21) @ 2015/04/21 18:35Z</td>
+    </tr>
+  
+    <tr>
+    <th>jauhien</th>
+    <td>Journey to Belarus 24.10.2015 -- 09.11.2015 @ 2015/10/23 20:10Z</td>
+    </tr>
+  
+    <tr>
+    <th>josejx</th>
+    <td>Limited availablity until November 2013. @ 2013/10/22 05:52Z</td>
+    </tr>
+  
+    <tr>
+    <th>kumba</th>
+    <td>Busy w/ RL, but working on resurrecting SGI Octane support for Linux.  Stay tuned! @ 2014/07/13 10:36Z</td>
+    </tr>
+  
+    <tr>
+    <th>lordvan</th>
+    <td>Limited time for gentoo work at the moment, but will try to keep up with bugs, ...  Still available on IRC, Jabber and Email @ 2012/03/11 18:34Z</td>
+    </tr>
+  
+    <tr>
+    <th>mgorny</th>
+    <td>Very limited time, and even less willingness. @ 2015/09/24 20:12Z</td>
+    </tr>
+  
+    <tr>
+    <th>neurogeek</th>
+    <td>Lost my last Gentoo box and haven't been able to recover it. Maybe back by Jan. @ 2014/11/26 02:01Z</td>
+    </tr>
+  
+    <tr>
+    <th>nightmorph</th>
+    <td>working on getting systems back up. doing some limited email and bugzilla stuff in the meantime. @ 2014/11/10 10:23Z</td>
+    </tr>
+  
+    <tr>
+    <th>nullishzero</th>
+    <td>Not much time for Gentoo due to real life. Checking occasional email. @ 2015/05/14 02:52Z</td>
+    </tr>
+  
+    <tr>
+    <th>olemarkus</th>
+    <td>Little time for Gentoo. Will fix sec bugs asap, but other bugs may take some time. @ 2014/08/21 20:13Z</td>
+    </tr>
+  
+    <tr>
+    <th>patrick</th>
+    <td>Mostly offline for a little while. Feel free to fix stuff that needs fixing. @ 2015/09/03 07:56Z</td>
+    </tr>
+  
+    <tr>
+    <th>pchrist</th>
+    <td>Busy with real life. Do whatever you want with my packages, but the rule "you touch it, you fix it" applies here too. Be careful of the monster called guile. @ 2015/10/23 19:11Z</td>
+    </tr>
+  
+    <tr>
+    <th>prometheanfire</th>
+    <td>At openstack summit, should be back for halloween :D @ 2015/10/23 22:07Z</td>
+    </tr>
+  
+    <tr>
+    <th>psomas</th>
+    <td>Busy with work. Contact me via email if needed. Hope to be back soon. @ 2012/10/12 10:05Z</td>
+    </tr>
+  
+    <tr>
+    <th>radhermit</th>
+    <td>indefinite break @ 2015/07/22 01:03Z</td>
+    </tr>
+  
+    <tr>
+    <th>ranger</th>
+    <td>Taking temporary leave.  I will return @ 2014/05/28 15:19Z</td>
+    </tr>
+  
+    <tr>
+    <th>remi</th>
+    <td>Gone fishing until Aug. 15, x11 and gnome herds should be able to answer questions about "my" @ 2015/07/24 06:14Z</td>
+    </tr>
+  
+    <tr>
+    <th>robbat2</th>
+    <td>Northern BC 2015/10/24-2015/10/31 @ 2015/10/23 07:41Z</td>
+    </tr>
+  
+    <tr>
+    <th>sbriesen</th>
+    <td>Too few spare time right now. Feel free to fix any bugs &amp; ebuilds... ;-) @ 2013/10/30 10:48Z</td>
+    </tr>
+  
+    <tr>
+    <th>sera</th>
+    <td>Too busy with work till mid September @ 2014/08/17 15:58Z</td>
+    </tr>
+  
+    <tr>
+    <th>tampakrap</th>
+    <td>retired @ 2015/07/04 15:22Z</td>
+    </tr>
+  
+    <tr>
+    <th>tomk</th>
+    <td>Busy with RL, back soon @ 2015/01/21 16:10Z</td>
+    </tr>
+  
+    <tr>
+    <th>tomwij</th>
+    <td>I am taking a break from Gentoo. I don't think I'm ready to retire, but I think I need a break to decide. Still present to talk if you can catch me... @ 2014/09/10 12:28Z</td>
+    </tr>
+  
+    <tr>
+    <th>vapier</th>
+    <td>traveling; expect delayed response @ 2015/06/09 16:18Z</td>
+    </tr>
+  
+    <tr>
+    <th>vostorga</th>
+    <td>Limited time and high workload, because I've got a new job. Feel free to touch any package. @ 2014/04/06 18:45Z</td>
+    </tr>
+  
+    <tr>
+    <th>voyageur</th>
+    <td>Limited availability until mid-august. Thanks for fixing my packages in the meantime! @ 2015/07/03 21:32Z</td>
+    </tr>
+  
+    <tr>
+    <th>yngwin</th>
+    <td>Busy IRL. Feel free to update and fix packages I maintain. @ 2015/10/25 00:43Z</td>
+    </tr>
+  
+</tbody></table>
+  <div class="col-xs-12 col-md-9 col-lg-9">
+    <p>
+  <strong>These developers are currently not available.</strong>
+  Data updated at Tue Oct 27 22:30:37 2015.
+</p>
+
+<table class="table table-striped">
+  <tbody><tr>
+    <th>Developer</th>
+    <th>Message and Timestamp</th>
+  </tr>
+  
+    <tr>
+    <th>a3li</th>
+    <td>Moving. Back sometime in November. @ 2015/10/20 19:51Z</td>
+    </tr>
+  
+    <tr>
+    <th>alicef</th>
+    <td>Still busy for university exams. Feel free to touch my packages. @ 2015/08/24 09:53Z</td>
+    </tr>
+  
+    <tr>
+    <th>antarus</th>
+    <td>On leave. Not reading email or irc. @ 2014/06/07 15:34Z</td>
+    </tr>
+  
+    <tr>
+    <th>armin76</th>
+    <td>Relocated to Ireland since April, still no internet and not finished moving yet, feel free to touch my packages @ 2015/06/14 19:17Z</td>
+    </tr>
+  
+    <tr>
+    <th>bircoph</th>
+    <td>Unavailable and unreacheable till the beginning of November due to healthcare issues. Feel free to touch my packages. @ 2015/10/18 20:16Z</td>
+    </tr>
+  
+    <tr>
+    <th>caster</th>
+    <td>Away until second child born and things settle down (I expect March). @ 2015/01/06 15:20Z</td>
+    </tr>
+  
+    <tr>
+    <th>dabbott</th>
+    <td>Away untill the middle of November, in the process of relocation. @ 2015/10/11 22:10Z</td>
+    </tr>
+  
+    <tr>
+    <th>darkside</th>
+    <td>Check email. Monitor Gentoo Infra stuff, otherwise a Gentoo User. @ 2014/01/05 00:09Z</td>
+    </tr>
+  
+    <tr>
+    <th>dastergon</th>
+    <td>new job; relocating. partially available @ 2015/03/20 10:08Z</td>
+    </tr>
+  
+    <tr>
+    <th>dilfridge</th>
+    <td>main devbox and vserver broken. reachable by e-mail, occasionally on irc (but no backlog). @ 2015/10/02 21:36Z</td>
+    </tr>
+  
+    <tr>
+    <th>ercpe</th>
+    <td>Currently n/a. Not really looking into bugzilla and IRC but reachable via mail. @ 2015/05/14 04:47Z</td>
+    </tr>
+  
+    <tr>
+    <th>fauli</th>
+    <td>Work load high, available through mail @ 2011/02/02 20:21Z</td>
+    </tr>
+  
+    <tr>
+    <th>haubi</th>
+    <td>offline until mid of October, 2015 @ 2015/09/01 09:18Z</td>
+    </tr>
+  
+    <tr>
+    <th>hkbst</th>
+    <td>Busy with real life. @ 2013/12/09 12:25Z</td>
+    </tr>
+  
+    <tr>
+    <th>hwoarang</th>
+    <td>No time for gentoo. No ETA. If you want to fix my bugs go ahead @ 2014/06/29 11:53Z</td>
+    </tr>
+  
+    <tr>
+    <th>iksaif</th>
+    <td>Hardware died, away till May (set by infra per undertakers@, 2015/04/21) @ 2015/04/21 18:35Z</td>
+    </tr>
+  
+    <tr>
+    <th>jauhien</th>
+    <td>Journey to Belarus 24.10.2015 -- 09.11.2015 @ 2015/10/23 20:10Z</td>
+    </tr>
+  
+    <tr>
+    <th>josejx</th>
+    <td>Limited availablity until November 2013. @ 2013/10/22 05:52Z</td>
+    </tr>
+  
+    <tr>
+    <th>kumba</th>
+    <td>Busy w/ RL, but working on resurrecting SGI Octane support for Linux.  Stay tuned! @ 2014/07/13 10:36Z</td>
+    </tr>
+  
+    <tr>
+    <th>lordvan</th>
+    <td>Limited time for gentoo work at the moment, but will try to keep up with bugs, ...  Still available on IRC, Jabber and Email @ 2012/03/11 18:34Z</td>
+    </tr>
+  
+    <tr>
+    <th>mgorny</th>
+    <td>Very limited time, and even less willingness. @ 2015/09/24 20:12Z</td>
+    </tr>
+  
+    <tr>
+    <th>neurogeek</th>
+    <td>Lost my last Gentoo box and haven't been able to recover it. Maybe back by Jan. @ 2014/11/26 02:01Z</td>
+    </tr>
+  
+    <tr>
+    <th>nightmorph</th>
+    <td>working on getting systems back up. doing some limited email and bugzilla stuff in the meantime. @ 2014/11/10 10:23Z</td>
+    </tr>
+  
+    <tr>
+    <th>nullishzero</th>
+    <td>Not much time for Gentoo due to real life. Checking occasional email. @ 2015/05/14 02:52Z</td>
+    </tr>
+  
+    <tr>
+    <th>olemarkus</th>
+    <td>Little time for Gentoo. Will fix sec bugs asap, but other bugs may take some time. @ 2014/08/21 20:13Z</td>
+    </tr>
+  
+    <tr>
+    <th>patrick</th>
+    <td>Mostly offline for a little while. Feel free to fix stuff that needs fixing. @ 2015/09/03 07:56Z</td>
+    </tr>
+  
+    <tr>
+    <th>pchrist</th>
+    <td>Busy with real life. Do whatever you want with my packages, but the rule "you touch it, you fix it" applies here too. Be careful of the monster called guile. @ 2015/10/23 19:11Z</td>
+    </tr>
+  
+    <tr>
+    <th>prometheanfire</th>
+    <td>At openstack summit, should be back for halloween :D @ 2015/10/23 22:07Z</td>
+    </tr>
+  
+    <tr>
+    <th>psomas</th>
+    <td>Busy with work. Contact me via email if needed. Hope to be back soon. @ 2012/10/12 10:05Z</td>
+    </tr>
+  
+    <tr>
+    <th>radhermit</th>
+    <td>indefinite break @ 2015/07/22 01:03Z</td>
+    </tr>
+  
+    <tr>
+    <th>ranger</th>
+    <td>Taking temporary leave.  I will return @ 2014/05/28 15:19Z</td>
+    </tr>
+  
+    <tr>
+    <th>remi</th>
+    <td>Gone fishing until Aug. 15, x11 and gnome herds should be able to answer questions about "my" @ 2015/07/24 06:14Z</td>
+    </tr>
+  
+    <tr>
+    <th>robbat2</th>
+    <td>Northern BC 2015/10/24-2015/10/31 @ 2015/10/23 07:41Z</td>
+    </tr>
+  
+    <tr>
+    <th>sbriesen</th>
+    <td>Too few spare time right now. Feel free to fix any bugs &amp; ebuilds... ;-) @ 2013/10/30 10:48Z</td>
+    </tr>
+  
+    <tr>
+    <th>sera</th>
+    <td>Too busy with work till mid September @ 2014/08/17 15:58Z</td>
+    </tr>
+  
+    <tr>
+    <th>tampakrap</th>
+    <td>retired @ 2015/07/04 15:22Z</td>
+    </tr>
+  
+    <tr>
+    <th>tomk</th>
+    <td>Busy with RL, back soon @ 2015/01/21 16:10Z</td>
+    </tr>
+  
+    <tr>
+    <th>tomwij</th>
+    <td>I am taking a break from Gentoo. I don't think I'm ready to retire, but I think I need a break to decide. Still present to talk if you can catch me... @ 2014/09/10 12:28Z</td>
+    </tr>
+  
+    <tr>
+    <th>vapier</th>
+    <td>traveling; expect delayed response @ 2015/06/09 16:18Z</td>
+    </tr>
+  
+    <tr>
+    <th>vostorga</th>
+    <td>Limited time and high workload, because I've got a new job. Feel free to touch any package. @ 2014/04/06 18:45Z</td>
+    </tr>
+  
+    <tr>
+    <th>voyageur</th>
+    <td>Limited availability until mid-august. Thanks for fixing my packages in the meantime! @ 2015/07/03 21:32Z</td>
+    </tr>
+  
+    <tr>
+    <th>yngwin</th>
+    <td>Busy IRL. Feel free to update and fix packages I maintain. @ 2015/10/25 00:43Z</td>
+    </tr>
+  
+</tbody></table>
+  </div></div>
