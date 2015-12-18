@@ -8,7 +8,7 @@ tags: "hosting, website, digitalsurvival, haroopad"
 
 This week I upgrade my web services hosted on a personal server to run as [Server Blocks](https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/). It was much easier than I thought; just a a few lines added to the configuration file and then creating a review respective directories in <code>/etc/nginx/nginx.conf</code> and it was good to go!
 
-> Note: For my “VirtualHost” is an Apache term. NGINX does not have Virtual hosts, it has “Server Blocks” that use the server_name and listen directives to bind to tcp sockets.
+> Note: “VirtualHost” is an Apache term. NGINX does not have Virtual hosts, it has “Server Blocks” that use the server_name and listen directives to bind to tcp sockets.
 
 I'm really liking nginx as a server. It's fast and (so far) extremely easy to configure. Since the point of digital survival is to become as digitally self-sufficient as possible, I have been taking on the task of establishing and maintaining my own infrastructure. Things are currently not entirely where I'd like them to be...even this blog is (currently) hosted via the good graces of GitHub. It is simply a matter of time and effort to become digitally independent.
 
