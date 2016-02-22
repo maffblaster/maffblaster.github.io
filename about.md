@@ -8,6 +8,12 @@ permalink: /about/
 
 You've found blog of Matthew Marchese. This is one of my [many projects](http://maffblaster.github.io/projects/). I try to find time to write about what I am currently learning about or doing. If you want to learn more about my likes and interests keep reading.
 
+If you'd like to gift me money for open source development efforts choose a link below (if the set amounts are not what you want, it is easy to customize the amount by clicking on it):
+
+* [Gift $5](https://www.paypal.me/matthewmarchese/5)
+* [Gift $10](https://www.paypal.me/matthewmarchese/10)
+* [Gift $25](https://www.paypal.me/matthewmarchese/25)
+
 [Titus 2:11-14; 3:3-8 ](https://www.biblegateway.com/passage/?search=Titus+2%3A11-14%2CTitus+3%3A3-8&version=ESV) would be a good representation of my beliefs about reality. I was born a wicked person, and because I am still sinful I am still wicked, but by God's grace He saved me to live a life set apart for Him.
 
 It is my sole purpose to glorify Him as His Son did, and although it's not easy I keep going.

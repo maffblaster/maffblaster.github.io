@@ -24,5 +24,7 @@ Here I have included some quotes that have, in some manner (mostly positively), 
 
 "What is the chief end of man?" -[Westminster Confession of Faith](https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith)
 
+"You don't join a local church. You submit to one." -[Daniel Jarms](https://www.facebook.com/dan.jarms)
+
 "There's no other Man who could save the dead.
 There's no other God to place our head." -[Sufjan Stevens](https://en.wikipedia.org/wiki/Sufjan_Stevens)
