@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Today I learned mtab
-description: 
+description: mtab contains mount information
 date: 2016-03-02 16:59:18 -07:00
 tags: "til, today i learned"
 ---
 
-Today I learned as a result of reading NeddyNeagoon's reply on [this thread](https://forums.gentoo.org/viewtopic-t-813610-start-0.html) on the Gentoo forums, that <code>/etc/mtab</code> _is_ <code>/proc/mounts</code>.
+Today I learned as a result of reading NeddySeagoon's reply on [this thread](https://forums.gentoo.org/viewtopic-t-813610-start-0.html) on the Gentoo forums, that <code>/etc/mtab</code> _is_ <code>/proc/mounts</code>.
 
 If you chroot into a new stage tarball and run the <code>df</code> command there will be an error until either:
 
